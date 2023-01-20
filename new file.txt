@@ -1,0 +1,3 @@
+trojan://18n2hUPs4RrOg3GXmp9_1YC6_vox2aGALDpLfMkZjmqgBL_o@s3.techwithme.at:15912?security=tls&type=tcp&headerType=none#trojan%20tcp%20tls
+
+vless://9335c843-94ca-5794-a20a-02fa243f512d@s3.techwithme.at:13421?encryption=none&flow=xtls-rprx-direct&security=xtls&type=tcp&headerType=none#vless%20tcp%20xtls
